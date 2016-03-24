@@ -35,9 +35,6 @@ for (var i = 0; i < data['items'].length; i++) {
 }
 
 // Problem 6:
-var brand;
-var price;
-var image;
 
 for (var i = 0; i < data['items'].length; i++) {
   {
